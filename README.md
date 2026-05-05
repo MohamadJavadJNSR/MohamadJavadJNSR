@@ -1,16 +1,24 @@
-## Hi there 👋
+## Hi 👋, I'M MohamadJavad.
 
-<!--
-**MohamadJavadJNSR/MohamadJavadJNSR** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I'm a **Frontend Developer** passionate about building beautiful, responsive, and user-friendly web interfaces. I love turning design concepts into clean, efficient code using modern web technologies.
 
-Here are some ideas to get you started:
+## 🛠️ Tech Stack
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+[![My Skills](https://skillicons.dev/icons?i=html,css,js,tailwind,git,github)](https://skillicons.dev)
+
+
+## 🚀 What I Do
+- **Responsive Web Design:** Crafting layouts that look great on any device.
+- **Clean Code:** Writing readable, maintainable, and reusable code.
+- **UI Implementation:** Turning design mockups into pixel-perfect web pages.
+- **Performance Optimization:** Ensuring fast load times and smooth interactions.
+
+## 📫 Let's Connect
+I'm always open to discussing web development, new projects, or opportunities to collaborate.
+
+- 📧 **Email:** [Your Email Address]
+- 💼 **LinkedIn:** [Your LinkedIn Profile Link]
+- 🌐 **Portfolio:** [Your Portfolio Website Link - Optional]
+
+---
+*Thanks for visiting my profile! 🚀*
